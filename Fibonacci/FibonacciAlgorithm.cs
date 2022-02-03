@@ -44,7 +44,6 @@ namespace Fibonacci
         }
 
 
-
         public static int Fibonacci_TopBottom_Helper(int n, int?[] memoArray)
         {
             int fn;
@@ -100,8 +99,6 @@ namespace Fibonacci
 
         #endregion
 
-
         #endregion
-
     }
 }
