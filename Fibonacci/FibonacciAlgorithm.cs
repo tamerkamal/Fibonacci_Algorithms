@@ -4,7 +4,7 @@ using System.Collections.Generic;
 namespace Fibonacci
 {
     /// <summary>
-    /// Fn= Fn-1 + Fn-2
+    /// reference: https://www.calculatorsoup.com/calculators/discretemathematics/fibonacci-calculator.php
     /// </summary>
     public class FibonacciAlgorithm
     {
